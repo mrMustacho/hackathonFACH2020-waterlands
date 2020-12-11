@@ -25,8 +25,7 @@
 ### Observaciones
 
 - Con el paso de los años, parece que los colores en "Ndvi ordenado máximo" tienden a aclararse, lo cual revela pérdidas en la vegetación.
-[Fuente](https://www.usgs.gov/core-science-systems/nli/landsat/landsat-normalized-difference-vegetation-index?qt-science_support_page_related_con=0#qt-science_support_page_related_con)(Fuente:  )
-
+[Fuente](https://www.usgs.gov/core-science-systems/nli/landsat/landsat-normalized-difference-vegetation-index?qt-science_support_page_related_con=0#qt-science_support_page_related_con)
 - Hay una mancha rara en abril del 2016 del gráfico Ndvi ordenado máximo, la cual es reminescente a la marea roja. Investigando en el hecho se encontró que alrededor de abril del 2016 hubieron grandes problemas de marea roja en la región de Los Lagos. Es posible que esta se haya esparcido hasta las costas centrales, pero no se considera probable, ya que es la única imagen que insinúa esto y tampoco se encontraron noticias de la época que validen esta posibilidad.
 [Fuente](https://es.wikipedia.org/wiki/Protestas_en_Los_Lagos_de_2016#:~:text=Marea%20roja,-A%20fines%20de&text=El%2012%20de%20febrero%2C%20el,Viejo%2C%20pero%20a%20niveles%20subt%C3%B3xicos)
 - Puede ser coincidencia, pero parece apreciarse una fuerte correlación entre la marejada de agosto del 2015 y la mayor claridad en las imágenes de los meses de agosto y septiembre del mismo año en el gráfico Ndvi ordenado máximo. No es tan inusual que se den 2 meses seguidos con imágenes claras, es la única vez que pasa en agosto y septiembre, y, de hecho, es la única vez que pasó en septiembre. Por lo tanto, se cree que sí se están apreciando los efectos de la marejada, mas la zona parece recuperarse sin mayores problemas tras eso.
